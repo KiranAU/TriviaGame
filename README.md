@@ -4,4 +4,4 @@ A Trivia game using JavaScript for the logic and jQuery to manipulate HTML. [Ple
 
 ***
 
-![Portfolio About](triva.PNG)
+![Trivia Game](trivia.PNG)
